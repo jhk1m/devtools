@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevTools-X
 
 ![image](assets/banner.png)
@@ -144,3 +145,6 @@ Absolutely not. I don't know rust myself and I have a complete application creat
 - a db integration for storing configuration? optional
 - Security. Check CSP and fix the worker loading
 - Stress testing especially hashers and image compressor
+=======
+# devtools
+>>>>>>> 23b28436fb7f2f8c14484a5f975650f1dc823cb1
